@@ -1,4 +1,7 @@
 # research-interserver
+
+[![DOI](https://zenodo.org/badge/99168130.svg)](https://zenodo.org/badge/latestdoi/99168130)
+
 This repository contains infographics and text related to developing services that exchange data between multiple backends.
 
 ![Infographic](SatelliteImport_2000.png)
