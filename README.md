@@ -3,6 +3,9 @@ This repository contains infographics and text related to developing services th
 
 ![Infographic](SatelliteImport_2000.png)
 
+### Medium Aritcle ###
+[https://medium.com/@jake_billings/anatomy-of-a-cross-service-import-b0e9a48832ef](Checkout the Article on Medium)
+
 ### Other Projects ###
 Checkout my other projects at [http://www.jakebillings.com](http://www.jakebillings.com) or contact me via [LinkedIn](https://www.linkedin.com/in/jake-billings/).
 
